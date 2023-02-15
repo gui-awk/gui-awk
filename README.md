@@ -27,9 +27,9 @@
 
  #### 📚 Tenho conhecimento básico:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-black.svg?style=plastic&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=flat&logo=javascript&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat&logo=css3&logoColor=white)
  <br>
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
