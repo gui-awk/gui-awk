@@ -4,7 +4,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/guiawk)](https://www.kaggle.com/guiawk)
 
 <p align="center">
-  <img src="https://github.com/gui-awk/guilherme/blob/main/0_CHs47eo87tMPd_-q.gif" alt="animated" />
+  <img src="https://github.com/gui-awk/guilherme/blob/main/imagem15.gif" alt="animated" />
 </p>
 
 <br>
