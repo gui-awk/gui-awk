@@ -26,10 +26,10 @@
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 
  #### 📚 Tenho conhecimento básico:
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![HTML5](https://img.shields.io/badge/html5-black.svg?style=plastic&logo=html5&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=flat&logo=javascript&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat&logo=css3&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![HTML5](https://img.shields.io/badge/html5-black.svg?style=flat-square&logo=html5&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=flat-square&logo=javascript&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat-square&logo=css3&logoColor=white)
  <br>
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
