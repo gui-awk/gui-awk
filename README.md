@@ -1,7 +1,6 @@
 ### "Só fazemos melhor aquilo que repetidamente insistimos em melhorar. A busca da excelência não deve ser um objetivo, e sim um hábito." :right_anger_bubble:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermehcavaco//)](https://www.linkedin.com/in/guilhermehcavaco/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=guihcavaco@gmail.com)](guihcavaco@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/guiawk)](https://www.kaggle.com/guiawk)
 
 <p align="center">
   <img src="https://github.com/gui-awk/guilherme/blob/main/imagem15.gif" alt="animated" />
