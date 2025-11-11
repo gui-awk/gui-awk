@@ -90,7 +90,7 @@
 
  <br>
 
-<b> :chart_with_upwards_trend: Estatísticas</b>:
+<!-- <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/gui-awk">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gui-awk&show_icons=true&theme=dark&include_commits=true"/>
@@ -99,4 +99,4 @@
 <a href="https://github.com/gui-awk">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-awk&layout=compact&langs_count=8&theme=dark"/>
 </a>
-
+ -->
