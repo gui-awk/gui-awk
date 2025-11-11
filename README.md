@@ -11,7 +11,7 @@
 ## 🚀 **Linguagens e Ferramentas**
 
 #### 💻 Uso diário
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
@@ -19,7 +19,7 @@
 ---
 
 ### 📊 **Analytics & Dados**
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-black?style=flat-square&logo=looker)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
