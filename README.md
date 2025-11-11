@@ -40,7 +40,6 @@
 ![Portainer](https://img.shields.io/badge/-Portainer-black?style=flat-square&logo=portainer)
 ![Traefik](https://img.shields.io/badge/-Traefik-black?style=flat-square&logo=traefikproxy)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Let's Encrypt](https://img.shields.io/badge/-Let%27s%20Encrypt-black?style=flat-square&logo=letsencrypt)
 
 ---
@@ -58,7 +57,8 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)
 ![Amazon RDS (Aurora)](https://img.shields.io/badge/-Amazon%20RDS%20(Aurora)-black?style=flat-square&logo=amazonrds)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-blac?&style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?&style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
