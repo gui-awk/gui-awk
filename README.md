@@ -69,7 +69,7 @@
 ---
 
 ### ☁️ **Cloud, Infra & SO**
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/-Hostinger-black?style=flat-square&logo=hostinger)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
