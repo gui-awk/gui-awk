@@ -54,7 +54,7 @@
 
 ### 🗄️ **Bancos de Dados**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![Oracle](https://img.shields.io/badge/Oracle-black?style=flat-square&logo=Oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)
 ![Amazon RDS (Aurora)](https://img.shields.io/badge/-Amazon%20RDS%20(Aurora)-black?style=flat-square&logo=amazonrds)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
