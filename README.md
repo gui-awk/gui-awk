@@ -16,7 +16,8 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
- https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
+ ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+ 
  
  #### 🌱 Estou aprendendo:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
