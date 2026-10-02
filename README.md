@@ -9,19 +9,12 @@
 
 ## **Stack**
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![n8n](https://img.shields.io/badge/-n8n-black?style=flat-square&logo=n8n)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Portainer](https://img.shields.io/badge/-Portainer-black?style=flat-square&logo=portainer)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -33,14 +26,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?&style=flat-square&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-black?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Hostinger](https://img.shields.io/badge/-Hostinger-black?style=flat-square&logo=hostinger)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?style=flat-square&logo=virtualbox)
 ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=ollama)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia)
-![cURL](https://img.shields.io/badge/-cURL-black?style=flat-square&logo=curl)
 
  <br>
 
